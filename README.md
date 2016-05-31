@@ -1,2 +1,2 @@
 # deploy-manager
-repo for a simple deployment manager tool
+A simple web-based deployment manager tool.
